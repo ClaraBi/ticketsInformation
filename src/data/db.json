@@ -1,0 +1,37 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "This is 1st title_1",
+      "description": "1st description blablablablablan",
+      "assignee": "1st assignee",
+      "critically": "1st critically",
+      "date": "2012/04/23 18:25:43.511Z",
+      "new": true,
+      "inprogress": false,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Other one 2st title_2222222",
+      "description": "2st description blablablablablan",
+      "assignee": "2st assignee",
+      "critically": "2st critically",
+      "date": "2012/04/23 18:25:43.511Z",
+      "new": true,
+      "inprogress": false,
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "And that is 3st title_3333",
+      "description": "3st description blablablablablan",
+      "assignee": "3st assignee",
+      "critically": "3st critically",
+      "date": "2012/04/23 18:25:43.511Z",
+      "new": false,
+      "inprogress": true,
+      "completed": false
+    }
+  ]
+}

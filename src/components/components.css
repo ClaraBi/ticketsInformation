@@ -1,0 +1,35 @@
+.list {
+
+    padding-left: 20px;
+    
+    
+}
+.toDoItem {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.input-area {
+    max-width: 300px;
+}
+
+.form-block {
+    margin:0 auto;
+
+}
+
+.stepButton{
+    margin: 3px;
+}
+
+.listItem {
+    margin:0
+}
+
+.itemBorder {
+    border: 2px solid rgb(63, 141, 122);
+    padding: 10px;
+    border-radius: 25px;
+    max-width: 150px;
+    margin:5px;
+}
