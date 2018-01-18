@@ -1,19 +1,30 @@
 # Todos Mini Example
 
-This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app).
+### The 'title' input area is required, if not input value into it, the form won't be allowed to submit
 
-1. Download the project
+
+1. Download the project zipfile. Unziped the folder and put on desktop.
 
 2. To run this project, you need to install node envirment.
 
-### download node.js at `https://nodejs.org/en/`
+## download node.js at `https://nodejs.org/en/`
 
-3. Then go the terminal, and go inside the file folder cd `the file folder` run
+3. Then go the terminal, and go inside the file folder 
 
-### `npm install`
+## example: `cd desktop/ticketsInformation-master` 
 
-4. In the project directory, you can run:
+4. Install npm gloablly 
 
-### `npm start`
+## `npm install -g npm`
 
-5. The server will run on localhost:3000.
+check if installed ready with `npm -v`
+
+5. install npm on local
+
+## `npm install`
+
+6. In the project directory, you can run:
+
+## `npm start`
+
+7. The server will run on localhost:3000.
